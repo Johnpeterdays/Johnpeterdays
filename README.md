@@ -1,4 +1,4 @@
-- 👋 print("hello world!"), I’m @Johnpeterdays
+- 👋 print("hello world!"), I’m @Johnpeterdays!
 - 👀 I’m interested in learn more and more things;
 - 🌱 I’m currently learning coding stuff;
 - 💞️ I’m looking to collaborate on ...
